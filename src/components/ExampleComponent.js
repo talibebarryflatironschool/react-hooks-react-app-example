@@ -5,7 +5,7 @@ function ExampleComponent() {
     <div>
       <h3>Whoa!</h3>
       <img
-        src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"
+        src="https://s3.amazonaws.com/ironboard-learn/sunglasses.gif"
         alt="Sunglasses GIF"
       />
     </div>
